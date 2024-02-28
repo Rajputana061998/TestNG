@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+  <test thread-count="2" name="Test">
+  
+ <!--  <parameter name="browser" value="">edge</parameter> -->
+  
+  <!--<groups>
+   <define name="SPRINTTEST">
+   <include name = "Sanity"/>
+   <include name = "Regression"/>
+   </define>
+  	<run>
+   <include name="SPRINTTEST"/>
+   </run>
+  </groups>  -->
+  <classes>
+   
+     <!---  <class name="TestNG.NewTest"/>
+       <class name="TestNG.InvokeChromeBrowser"/>
+       <class name="TestNG.InvokeEdge"/>
+        <class name="TestNG.Grouping"/> -->
+        
+       
+        
+           <class name="TestNG.ListenerTestClass"/>
+          
+           
+           
+         
+       
+        
+        
+       
+           
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

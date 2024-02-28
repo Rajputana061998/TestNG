@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-28T16:37:45 IST" name="Default suite" finished-at="2024-02-28T16:37:50 IST" duration-ms="5405">
+    <groups>
+    </groups>
+    <test started-at="2024-02-28T16:37:45 IST" name="Default test" finished-at="2024-02-28T16:37:50 IST" duration-ms="5405">
+      <class name="TestNG.ListenerTestClass">
+        <test-method signature="invokechrome()[pri:0, instance:TestNG.ListenerTestClass@31fa1761]" started-at="2024-02-28T16:37:45 IST" name="invokechrome" finished-at="2024-02-28T16:37:50 IST" duration-ms="5338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokechrome -->
+      </class> <!-- TestNG.ListenerTestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
